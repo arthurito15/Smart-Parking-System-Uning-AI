@@ -1,0 +1,13 @@
+/home/ulricharthur/Documents/ParkingSimulator-Java-main/src/main/java/com/example/ParkingSimulator/strategy/IStrategy.java
+/home/ulricharthur/Documents/ParkingSimulator-Java-main/src/main/java/com/example/ParkingSimulator/model/ProfilUsager.java
+/home/ulricharthur/Documents/ParkingSimulator-Java-main/src/main/java/com/example/ParkingSimulator/model/Parking.java
+/home/ulricharthur/Documents/ParkingSimulator-Java-main/src/main/java/com/example/ParkingSimulator/view/AnimatedCar.java
+/home/ulricharthur/Documents/ParkingSimulator-Java-main/src/main/java/module-info.java
+/home/ulricharthur/Documents/ParkingSimulator-Java-main/src/main/java/com/example/ParkingSimulator/model/Voiture.java
+/home/ulricharthur/Documents/ParkingSimulator-Java-main/src/main/java/com/example/ParkingSimulator/view/CustomRectangle.java
+/home/ulricharthur/Documents/ParkingSimulator-Java-main/src/main/java/com/example/ParkingSimulator/strategy/DefaultStrategy.java
+/home/ulricharthur/Documents/ParkingSimulator-Java-main/src/main/java/com/example/ParkingSimulator/view/ParkingCar.java
+/home/ulricharthur/Documents/ParkingSimulator-Java-main/src/main/java/com/example/ParkingSimulator/view/TrafficCar.java
+/home/ulricharthur/Documents/ParkingSimulator-Java-main/src/main/java/com/example/ParkingSimulator/view/ParkingSlot.java
+/home/ulricharthur/Documents/ParkingSimulator-Java-main/src/main/java/com/example/ParkingSimulator/view/ParkingView.java
+/home/ulricharthur/Documents/ParkingSimulator-Java-main/src/main/java/com/example/ParkingSimulator/Main.java
